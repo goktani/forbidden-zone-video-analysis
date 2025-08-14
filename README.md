@@ -31,15 +31,15 @@ The system has **three versions**:
 ## 📂 Folder Structure
 ```
 ````
-├── processed\_videos/                  # Outputs from version 2
-├── processed\_videosv2/                 # Outputs from final version
-├── test\_videos/                        # Input .mp4 videos
+├── processed_videos/                  # Outputs from version 2
+├── processed_videosv2/                 # Outputs from final version
+├── test_videos/                        # Input .mp4 videos
 │   ├── media1.mp4
 │   ├── media2.mp4
 │   └── ...
-├── segment\_forbidden\_overlay.py        # Version 1 - Segmentation + Overlay
-├── segment\_forbidden\_overlay\_tracking.py   # Version 2 - Tracking + Overlay
-├── segment\_forbidden\_overlay\_trackingv2.py # Version 3 - Final optimized version
+├── segment_forbidden_overlay.py        # Version 1 - Segmentation + Overlay
+├── segment_forbidden_overlay_tracking.py   # Version 2 - Tracking + Overlay
+├── segment_forbidden_overlay_trackingv2.py # Version 3 - Final optimized version
 ├── yolov8n-seg.pt                       # YOLOv8 segmentation model
 
 ````
