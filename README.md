@@ -124,7 +124,7 @@ MIT License - You are free to use, modify, and distribute this project with attr
 
 ## ✨ Author
 
-Developed by **\Göktan İren** as part of a real-time human behavior and safety analysis system.
+Developed by **Göktan İren** as part of a real-time human behavior and safety analysis system.
 
 ```
 
